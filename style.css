@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+P{
+    color:black;
+    font-size: medium;
+    font-family: serif;
+}
+
+table{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse:collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E80105;
+    background-color: antiquewhite;
+}
+
+th{
+    font-weight: 800;
+    color:#ffffff;
+    background-color: #E80105;
+}
+
+td{
+    font-size: 3.5mm;
+}
+
+h5{
+    font-size: x-large;
+    background-color: antiquewhite;
+}
